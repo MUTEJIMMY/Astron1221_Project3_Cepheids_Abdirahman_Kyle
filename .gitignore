@@ -1,2 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
+
+# Jupyter/Anaconda junk
+virtual_documents/
+anaconda_projects/
